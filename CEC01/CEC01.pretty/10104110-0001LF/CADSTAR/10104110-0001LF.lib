@@ -1,0 +1,15 @@
+.10104110-0001LF :1 ;USB Connectors 5P Quick Connect Micro USB TypeB Rcpt
+"10104110-0001LF"
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5"
+*MXP 9
+*DFN 10104110-0001LF
+~!DigiKey Part Number (609-4052-2-ND)
+~!Link DigiKey Price/Stock (https://www.digikey.co.uk/product-detail/en/amphenol-icc-fci/10104110-0001LF/609-4052-2-ND/2350353)
+~!Manufacturer_Name (FCI)
+~!Manufacturer_Part_Number (10104110-0001LF)
+~!Link Datasheet (https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10104110.pdf)
+~!Height (-)
+"10104110-0001LF"
+1.1!U 3.1!U 5.1!U 2.1!U 4.1!U 
